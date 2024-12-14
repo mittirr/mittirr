@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akashi and I'm a front-end developer, from India</p>
+<p align="left">You can call me Akashi :) I'm a Full-Stack Developer from India</p>
 
 ###
 
