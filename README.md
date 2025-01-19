@@ -6,9 +6,9 @@
 <p align="left">You can call me Akashi :) I'm a Full-Stack Developer from India</p>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mittirr&label=Profile%20views&color=0e75b6&style=flat" alt="mittirr" /> </p>
 
-<h2 align="left">About me</h2> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittirr&label=Profile%20views&color=0e75b6&style=flat" alt="mittirr" /> </p>
-
+<h2 align="left">About me</h2> 
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning NEXT.JS<br>🎯 Goals: To understand tech and leverage its power<br>🎲 Fun fact: People say I sing quite well :P you can check out my youtube below</p>
