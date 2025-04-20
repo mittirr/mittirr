@@ -35,6 +35,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/threedotjs/white" height="40" alt="threejs logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/original" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/original" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/original" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
